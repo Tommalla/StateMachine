@@ -1,5 +1,6 @@
 set(HEADERS
 	EnumHash.hpp
+	StateMachine.hpp
 )
 
 set(SOURCES
